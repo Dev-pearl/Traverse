@@ -331,12 +331,12 @@
         color: #fff;
     }
 
-    .first-set {
+    /* .first-set {
         display: flex;
         align-items: center;
         justify-content: center;
         width: 600px;
-        gap: 75px;
+        gap: 50px;
         margin-top: 30px;
         flex-direction: column;
     }
@@ -347,9 +347,9 @@
         justify-content: center;
         width: 600px;
         gap: 50px;
-        margin-top: 30px;
+        margin-top: 50px;
         flex-direction: column;
-    }
+    } */
 
     .banner-one {
         display: flex;
@@ -379,7 +379,7 @@
     }
 
     .banner-four {
-        width: 600px;
+        width: 700px;
         height: auto;
         border-radius: 32px;
         background: rgba(217, 217, 217, 0.35);
@@ -392,7 +392,7 @@
     }
 
     footer {
-        width: 600px;
+        width: 700px;
         height: 288px;
         flex-shrink: 0;
         background: rgba(245, 193, 120, 0.103);
